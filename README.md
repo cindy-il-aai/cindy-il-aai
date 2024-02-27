@@ -1,3 +1,4 @@
+Hallo Guyss!!
 - 👋 Hi, I’m Cindy Febriani
 - 👋I’m mentor on IBM Advance AI at Infinite Learning
 - 🌱 I’m currently learning AI, Phyton, Data Science
